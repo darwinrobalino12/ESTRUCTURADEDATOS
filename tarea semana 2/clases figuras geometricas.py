@@ -60,4 +60,3 @@ if __name__ == "__main__":
     print(f"Perímetro del cuadrado: {mi_cuadrado.calcular_perimetro()}")
     print("--------------------------------\n")
 
-
